@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Solution for Technigo Coding Challenge</title>
+  <link rel="stylesheet" type="text/css" href="style.css">  
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body>
+  <!-- YOUR CODE GOES HERE: -->
+  <h1>What is Node.js?</h1>
+  <img src="https://i.imgur.com/svdpVUx.jpg" alt="Picture of screen with code" style="width:450px;height:200px;">
+  <p>
+  <br>
+  <br>
+  <a href="https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm">Node.js</a> is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).<br> Node.js was developed by Ryan Dahl in 2009 and its latest version is v0.10.36.<br> The definition of Node.js as supplied by its official documentation is as follows
+  <br>
+  <br>
+  <a href="https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm">Node.js</a> is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.<br> Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient,<br> perfect for data-intensive real-time applications that run across distributed devices.
+  <br>
+  <br>
+  <a href="https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm">Node.js</a> is an open source, cross-platform runtime environment for developing server-side and networking applications.<br> Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X,<br> Microsoft Windows, and Linux.
+  <br>
+  <br>
+</p>
+<h2>
+	<em>Read more about Node.js at <a href="https://en.wikipedia.org/wiki/Node.js">Wikipedia</a> if you would like to know more</em>
+	</h2>
+
+</body>
+
+</html>
